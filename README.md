@@ -2,9 +2,12 @@
 
 A modern and sleek Graphical User Interface (GUI) implementation of the classic Rock Paper Scissors game. Challenge the computer and try to beat the high score!
 
+---
+
 Are You Excited To Play!
 
-click here https://heartfelt-melomakarona-ba1a02.netlify.app/
+➤ https://heartfelt-melomakarona-ba1a02.netlify.app/
+
 ---
 
 ## 🚀 About The Project
